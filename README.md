@@ -1,3 +1,5 @@
+![giphy](https://user-images.githubusercontent.com/90897088/149535930-f842164b-284a-4d70-ab94-705888ea5890.gif)
+
 ### Hi there :wave: < I’m Gebrekidan but you can call me Hirut 😆 / >
 ![Github profile visitors count](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 [![Github followers count](https://img.shields.io/github/followers/Hirut4528?label=Follow&style=social)](https://github.com/Hirut4528)
