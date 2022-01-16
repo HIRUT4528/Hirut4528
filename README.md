@@ -48,7 +48,7 @@ My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Curren
 <!--  ### 📈 GitHub Stats
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=HIRUT4528&show_icons=true&theme=tokyonight"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIRUT4528&theme=tokyonight"/>
-  or
+  or can be
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HIRUT4528&show_icons=true&theme=radical) -->
 ### 📈 GitHub Stats
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HIRUT4528&show_icons=true&theme=radical)
