@@ -1,5 +1,5 @@
-<p><img height="450px" width="100%" src="https://media.giphy.com/media/S0NOA8oRnkaJG42d85/giphy.gif"/></p>
-
+<!-- <p><img height="450px" width="100%" src="https://media.giphy.com/media/S0NOA8oRnkaJG42d85/giphy.gif"/></p>
+ -->
 ### Hi there :wave: < I’m Hirut 😆 / >
 ![Github profile visitors count](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 [![Github followers count](https://img.shields.io/github/followers/Hirut4528?label=Follow&style=social)](https://github.com/Hirut4528)
