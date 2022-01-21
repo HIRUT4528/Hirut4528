@@ -34,7 +34,7 @@ My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Curren
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 ### 🎨 Tools
-
+3333
 <!-- ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) -->
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
@@ -46,7 +46,7 @@ My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Curren
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
  -->
- ###gtdfd
+ 
 <!--  ### 📈 GitHub Stats
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=HIRUT4528&show_icons=true&theme=tokyonight"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIRUT4528&theme=tokyonight"/>
