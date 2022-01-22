@@ -34,7 +34,7 @@ ghjk
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 ### 🎨 Tools
-ghjklhff
+ghjk
 <!-- ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) -->
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
