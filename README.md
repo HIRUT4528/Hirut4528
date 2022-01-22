@@ -9,7 +9,7 @@
 ### About Me
 
 My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about Information technologies(IT) and wanted to change my career. For the past years, I studeid few programming languages and web development (basic c#, HTML, CSS). For more information,  you can reach me on [twitter](https://twitter.com/GebrekidanHirut), [linkedin]() or you can mail me at [yahoo](mailto:Hirutassefa04@yahoo.com). Thank You for taking the time to view my GitHub Profile :pray: 
-
+ghjk
 - 🔭 I’m working on Projects
 - 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate with anyone on projects
