@@ -14,7 +14,7 @@ ghjk
 - 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate with anyone on projects
 - 💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing Opportunites and Open Source 
-
+hjklkj
 ### 🧑‍💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,7 +34,7 @@ ghjk
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 ### 🎨 Tools
-ghjk
+
 <!-- ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) -->
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
