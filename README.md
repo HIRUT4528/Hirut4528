@@ -14,7 +14,7 @@ ghjk
 - 🌱 I’m currently learning Javascript, React
 - 👯 I’m looking to collaborate with anyone on projects
 - 💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing Opportunites and Open Source 
-hjklkj
+
 ### 🧑‍💻 Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +46,7 @@ hjklkj
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
  -->
- 
+ fghjkkldfghjkk
 <!--  ### 📈 GitHub Stats
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=HIRUT4528&show_icons=true&theme=tokyonight"/>
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HIRUT4528&theme=tokyonight"/>
