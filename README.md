@@ -16,7 +16,7 @@ My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Curren
 - 💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing Opportunites and Open Source 
 
 ### 🧑‍💻 Languages
-dfgggg
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![javascipt](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
