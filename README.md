@@ -34,7 +34,7 @@ My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Curren
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 ### 🎨 Tools
-
+d
 <!-- ![photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) -->
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
