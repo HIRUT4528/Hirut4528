@@ -1,7 +1,7 @@
 <!-- <p><img height="450px" width="100%" src="https://media.giphy.com/media/S0NOA8oRnkaJG42d85/giphy.gif"/></p>
  -->
 ### Hi there :wave: < I’m Hirut 😆 / >
-![Github profile visitors count](https://visitor-badge.glitch.me/badge?page_id=Hirut4528)
+![Github profile visitors count](https://visitor-badge.glitch.me/badge?page_id=Hirut4528.Hirut4528)
 [![Github followers count](https://img.shields.io/github/followers/Hirut4528?label=Follow&style=social)](https://github.com/Hirut4528)
 ![downloud](https://img.shields.io/github/downloads/{username}/{Hirut}/total.svg)
 ![fork](https://img.shields.io/github/forks/{Hirut4528}/{repo-name}.svg)
