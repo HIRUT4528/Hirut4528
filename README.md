@@ -8,12 +8,22 @@
 
 ### About Me
 
-My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about Information technologies(IT) and want to change my career. For the past years, I studeid few programming languages and web development (basic c#, HTML, CSS). For more information,  you can reach me on [twitter](https://twitter.com/GebrekidanHirut). Thank You for taking the time to view my GitHub Profile :pray: 
+<--My name is Hirut Assefa Gebrekidan. I'm from Ethiopia, living in Czechia. Currently, I am working as PPC specialist. I’m passionate about Information technologies(IT) and want to change my career. For the past years, I studeid few programming languages and web development (basic c#, HTML, CSS). For more information,  you can reach me on [twitter](https://twitter.com/GebrekidanHirut). Thank You for taking the time to view my GitHub Profile :pray: -->
+👋 Hello, I'm Hirut Assefa Gebrekidan, an aspiring tester and web developer from Ethiopia, living in Czechia.
+
+💻 Although I don't have professional experience yet, I'm passionate about Information Technology (IT) and eager to kickstart my career in software testing and web development.
+
+📚 Self-driven and dedicated, I've been actively studying programming languages and web development including javascript HTML, CSS, and basic Java, c#.
+
+🚀 I'm actively seeking opportunities to learn, grow, and contribute to the tech community. Let's connect and explore the possibilities together!
+
+For more information,  you can reach me on [twitter](https://twitter.com/GebrekidanHirut). Thank You for taking the time to view my GitHub Profile :pray: 
+
 <!-- [linkedin]() or you can mail me at [yahoo](mailto:example@yahoo.com) -->
-- 🔭 I’m working on Projects
-- 🌱 I’m currently learning Javascript, React
-- 👯 I’m looking to collaborate with anyone on projects
-- 💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing Opportunites and Open Source 
+<--- 🔭 I’m working on Projects-->
+<--- 🌱 I’m currently learning Javascript, React-->
+<--- 👯 I’m looking to collaborate with anyone on projects-->
+<--- 💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing Opportunites and Open Source -->
 
 ### 🧑‍💻 Languages
 
