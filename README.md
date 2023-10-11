@@ -28,7 +28,6 @@ Thank you for visiting my GitHub profile, and I look forward to collaborating an
 
 ### 🎨 Tools
 
-![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
 
@@ -42,5 +41,6 @@ Thank you for visiting my GitHub profile, and I look forward to collaborating an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hirutassefa/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/GebrekidanHirut)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github&labelColor=blue)](https://github.com/HirutAssefa)
-[Email](mailto:hirutassefa04@yahoo.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&labelColor=blue)](mailto:hirutassefa04@yahoo.com)
+
 
