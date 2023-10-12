@@ -16,7 +16,7 @@ Thank you for visiting my GitHub profile, and I look forward to collaborating an
 
 🚀 I'm actively seeking opportunities to learn, grow, and contribute to the tech community. Let's connect and explore the possibilities together!
 
-💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Freelancing opportunities, and Open Source 
+💬 Talk to me or ask me anything about HTML, CSS, JavaScript, Software testing, Freelancing opportunities, and Open Source 
 
 ### 🧑‍💻 Languages, Frameworks, Version Control, Platforms and Libraries
 
@@ -35,7 +35,28 @@ Thank you for visiting my GitHub profile, and I look forward to collaborating an
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
- 
+
+### Visit My Portfolio
+
+- **[View Source Code](https://github.com/HirutAssefa/Gebrekidan-portfolio)** | **[View Website](https://hirut-assefa.netlify.app/)**
+
+### Notable Projects
+
+**Project 1: Click Marketing Agency Website**
+- **Technologies Used:** HTML, CSS, Sass, JavaScript
+- **Description:** Designed and developed a comprehensive marketing agency website using a blend of HTML for structured content, CSS for creating a responsive and visually appealing layout, and JavaScript for interactive elements.
+- **[View Source Code](https://github.com/HirutAssefa/click-marketing-agency)** | **[View Website](https://click-agency.netlify.app/)**
+
+**Project 2: Vibe Dance Studio Landing Page Website**
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Description:** Constructed a captivating landing page for a dance studio, integrating HTML for structural precision, CSS for responsive design that adapts to various screen sizes, and JavaScript for a dynamic user experience.
+- **[View Source Code](https://github.com/HirutAssefa/VibeStudio-landing-page-website)** | **[View Website](https://vibestudio.netlify.app/)**
+
+**Project 3: SiteSwift Web Hosting and Maintenance Services Website**
+- **Technologies Used:** HTML, CSS, JavaScript
+- **Description:** Currently working on a state-of-the-art website for SiteSwift, a web hosting and maintenance services provider. Stay tuned for an immersive digital experience.
+- **[View Source Code](https://github.com/HirutAssefa/SiteSwift-web-hosting-and-maintenance-services-website)** | **[View Website](https://siteswift.netlify.app/)**
+
 ### Find Me 👇
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hirutassefa/)
