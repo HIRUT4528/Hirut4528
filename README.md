@@ -1,4 +1,4 @@
-[![gihub-banner.jpg](https://i.postimg.cc/15SR9q5L/gihub-banner.jpg)](https://postimg.cc/MXsJ5XBD)
+[![github-banner.jpg](https://i.postimg.cc/pVkPQRkG/github-banner.jpg)](https://postimg.cc/t7Z0p0KW)
 
 ### About Me
 
