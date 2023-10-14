@@ -38,7 +38,7 @@ Thank you for visiting my GitHub profile, and I look forward to collaborating an
 
 ### Visit My Portfolio
 
-- **[View Source Code](https://github.com/HirutAssefa/Gebrekidan-portfolio)** | **[View Website](https://hirut-assefa.netlify.app/)**
+- **[View Source Code](https://github.com/HirutAssefa/Gebrekidan-portfolio)** | **[View Website](https://gebrekidan-portfolio.netlify.app/)**
 
 ### Notable Projects
 
