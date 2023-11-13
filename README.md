@@ -18,9 +18,9 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 
 ### 🛠️ Testovací nástroje
 
-- ![Pošťák](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 - ![Zephyr](https://img.shields.io/badge/Zephyr-%23FA4A0C.svg?style=for-the-badge&logo=Zephyr&logoColor=white)
-- [![Jira](https://img.shields.io/badge/Jira-%230073DA.svg?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ software/jira)
+- [![Jira](https://img.shields.io/badge/Jira-%230073DA.svg?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
 - [![Trello](https://img.shields.io/badge/Trello-%230026FF.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 
 ### Databáze
