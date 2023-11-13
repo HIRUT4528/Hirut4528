@@ -1,7 +1,90 @@
 
 [![Banner.png](https://i.postimg.cc/9MzJ8J6q/Banner.png)](https://postimg.cc/xJDvqyT0)
+[![Banner.png](https://i.postimg.cc/9MzJ8J6q/Banner.png)](https://postimg.cc/xJDvqyT0)
 
-### About Me
+### O mně
+
+Jsem Hirut Assefa, tester na volné noze v uTestu se zkušenostmi v následujících oblastech:
+
+**Schopnosti:**
+
+- **Manuální testování**: Znalost manuálního testování se zaměřením na webové aplikace, včetně **testování WebAPI** pomocí nástrojů jako **Postman**.
+- **Testovací aktivity**: Zkušenosti se správou defektů, vytvářením testovacích případů, prováděním a komplexním reportingem.
+- **Metodologie vývoje softwaru**: Dobře se orientuje v metodologiích vývoje softwaru, zejména **Agilní (SCRUM)**, se schopností přizpůsobit testovací postupy požadavkům projektu.
+- **Dokumentace testů**: Znalost vytváření různých testovací dokumentace, včetně testovacích scénářů, protokolů a pokynů.
+- **Nástroje a systémy**: Znalost používání základních testovacích nástrojů, včetně **Zephyr** pro organizovanou správu testovacích případů a systémů pro sledování chyb, jako jsou **Jira** a **Trello** pro efektivní záznam defektů , sledování a stanovení priorit.
+- **Webové technologie**: Dobrá znalost webových technologií, včetně **HTML**, **CSS**, **JavaScript** a **protokol HTTP**.
+- **Ovládání verzí**: Znáte používání systémů správy verzí, jako je **Git/Github**.
+- **Správa databáze**: Znalost práce s databázemi, zejména **MySQL**.
+
+### 🛠️ Testovací nástroje
+
+- ![Pošťák](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+- ![Zephyr](https://img.shields.io/badge/Zephyr-%23FA4A0C.svg?style=for-the-badge&logo=Zephyr&logoColor=white)
+- [![Jira](https://img.shields.io/badge/Jira-%230073DA.svg?style=for-the-badge&logo=Jira&logoColor=white)](https://www.atlassian.com/ software/jira)
+- [![Trello](https://img.shields.io/badge/Trello-%230026FF.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
+
+### Databáze
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧑‍💻 Programovací jazyky, rámce, správa verzí, platformy a knihovny
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascipt](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/)
+
+### 🎨 Nástroje pro návrh UX/UI
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/)
+
+### Navštivte Moje portfolio
+
+- **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/Gebrekidan-portfolio)** | **[Zobrazit web](https://gebrekidan-portfolio.netlify.app/)**
+  
+### Ukázka testování dovedností
+
+**Projekt 1: Testování registračního formuláře**
+
+### Projekt 1: Testování registračního formuláře
+
+- **Popis:** V tomto projektu jsem předvedl své dovednosti v ručním testování. Důkladně jsem otestoval registrační formulář, který jsem vytvořil pomocí HTML, CSS a Bootstrap. Tento projekt demonstruje mou schopnost vytvářet testovací scénáře, navrhovat testovací případy, zajistit, aby splňovaly požadavky, a hlásit jakékoli problémy, které najdu.
+
+- [Zobrazit zdrojový kód](https://github.com/HirutAssefa/Manual-testing-project1)
+
+### Prezentace programovacích dovedností
+
+**Projekt 1: Klikněte na web marketingové agentury**
+
+- **Použité technologie:** HTML, CSS, Sass, JavaScript
+- **Popis:** Navrhli a vyvinuli k
+
+omplexní web marketingové agentury využívající kombinaci HTML pro strukturovaný obsah, CSS pro vytvoření responzivního a vizuálně přitažlivého rozvržení a JavaScript pro interaktivní prvky.
+- **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/click-marketing-agency)** | **[Zobrazit web](https://click-agency.netlify.app/)**
+
+**Projekt 2: Webová stránka vstupní stránky Vibe Dance Studio**
+
+- **Použité technologie:** HTML, CSS, JavaScript
+- **Popis:** Vytvořila podmanivou vstupní stránku pro taneční studio, integrovala HTML pro strukturální přesnost, CSS pro responzivní design, který se přizpůsobuje různým velikostem obrazovky, a JavaScript pro dynamický uživatelský zážitek.
+- **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/VibeStudio-landing-page-website)** | **[Zobrazit web](https://vibestudio.netlify.app/)**
+
+**Projekt 3: Webové stránky hostingu a údržby webu SiteSwift**
+
+- **Použité technologie:** HTML, CSS, JavaScript
+- **Popis:** V současné době pracujeme na nejmodernější webové stránce pro SiteSwift, poskytovatele webhostingových a servisních služeb. Zůstaňte naladěni na pohlcující digitální zážitek.
+- **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/SiteSwift-web-hosting-and-maintenance-services-website)** | **[Zobrazit web](https://siteswift.netlify.app/)**
+
+### Najdi mě 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hirutassefa/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=flat&logo=twitter&labelColor=blue)](https://twitter.com/GebrekidanHirut)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github&labelColor=blue)](https://github.com/HirutAssefa)
+[![E-mail](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&labelColor=blue)](mailto:hirutassefa04@yahoo.com)
+
+### About Me (en)
 
 I'm Hirut Assefa, a freelance tester at uTest, with experience in the following areas:
 
@@ -27,7 +110,7 @@ I'm Hirut Assefa, a freelance tester at uTest, with experience in the following 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧑‍💻 Proframming Languages, Frameworks, Version Control, Platforms and Libraries
+### 🧑‍💻 Programming Languages, Frameworks, Version Control, Platforms and Libraries
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +127,7 @@ I'm Hirut Assefa, a freelance tester at uTest, with experience in the following 
 
 - **[View Source Code](https://github.com/HirutAssefa/Gebrekidan-portfolio)** | **[View Website](https://gebrekidan-portfolio.netlify.app/)**
   
-### Projects for Testing  skill
+### Testing skills showcase
 
 **Project 1: Registration form testing**
 
@@ -54,7 +137,7 @@ I'm Hirut Assefa, a freelance tester at uTest, with experience in the following 
 
 - [View Source Code](https://github.com/HirutAssefa/Manual-testing-project1)
 
-### Projects for programming skills
+### Programming skills showcase
 
 **Project 1: Click Marketing Agency Website**
 
