@@ -82,7 +82,7 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 
 ### About Me (en)
 
-I'm Hirut Assefa, a freelancer tester at uTest, with experience in the following areas:
+I'm Hirut Assefa, working as a tester at uTest, with experience in the following areas:
 
 **Skills:**
 
