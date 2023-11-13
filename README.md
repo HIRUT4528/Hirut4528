@@ -12,7 +12,7 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 - **Metodologie vývoje softwaru**: Dobře se orientuji v metodologiích vývoje softwaru, zejména **Agilní (SCRUM)**, se schopností přizpůsobit testovací postupy požadavkům projektu.
 - **Dokumentace testů**: Znalost vytváření různé testovací dokumentace, včetně testovacích scénářů, protokolů a pokynů.
 - **Nástroje a systémy**: Znalost používání základních testovacích nástrojů, včetně **Zephyr** pro organizovanou správu testovacích případů a systémů pro sledování chyb, jako jsou **Jira** a **Trello** pro efektivní záznam defektů , sledování a stanovení priorit.
-- **Webové technologie**: Dobrá znalost webových technologií, včetně **HTML**, **CSS**, **JavaScript** a **typscript**.
+- **Webové technologie**: Dobrá znalost webových technologií, včetně **HTML**, **CSS**, **JavaScript** a **typescript**.
 - **Ovládání verzí**: Znalost používání systémů správy verzí, jako je **Git/Github**.
 - **Správa databáze**: Znalost práce s databázemi, zejména **MySQL**.
 
@@ -57,22 +57,20 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 **Projekt 1: Klikněte na web marketingové agentury**
 
 - **Použité technologie:** HTML, CSS, Sass, JavaScript
-- **Popis:** Navrhli a vyvinuli k
-
-omplexní web marketingové agentury využívající kombinaci HTML pro strukturovaný obsah, CSS pro vytvoření responzivního a vizuálně přitažlivého rozvržení a JavaScript pro interaktivní prvky.
+- **Popis:** Navrhla a vyvinula jsem komplexní web marketingové agentury využívající kombinaci HTML pro strukturovaný obsah, CSS pro vytvoření responzivního a vizuálně přitažlivého rozvržení a JavaScript pro interaktivní prvky.
 
 - **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/click-marketing-agency)** | **[Zobrazit web](https://click-agency.netlify.app/)**
 
-**Projekt 2: Webová stránka vstupní stránky Vibe Dance Studio**
+**Projekt 2: Webová stránka Vibe Dance Studio**
 
 - **Použité technologie:** HTML, CSS, JavaScript
-- **Popis:** Vytvořila podmanivou vstupní stránku pro taneční studio, integrovala HTML pro strukturální přesnost, CSS pro responzivní design, který se přizpůsobuje různým velikostem obrazovky, a JavaScript pro dynamický uživatelský zážitek.
+- **Popis:** Vytvořila jsem vstupní stránku pro taneční studio, integrovala HTML pro strukturální přesnost, CSS pro responzivní design, který se přizpůsobuje různým velikostem obrazovky, a JavaScript pro dynamický uživatelský zážitek.
 - **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/VibeStudio-landing-page-website)** | **[Zobrazit web](https://vibestudio.netlify.app/)**
 
 **Projekt 3: Webové stránky hostingu a údržby webu SiteSwift**
 
 - **Použité technologie:** HTML, CSS, JavaScript
-- **Popis:** V současné době pracujeme na nejmodernější webové stránce pro SiteSwift, poskytovatele webhostingových a servisních služeb. Zůstaňte naladěni na pohlcující digitální zážitek.
+- **Popis:** Vytvořila jsem vstupní stránku pro SiteSwift, poskytovatele webhostingových a servisních služeb. 
 - **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/SiteSwift-web-hosting-and-maintenance-services-website)** | **[Zobrazit web](https://siteswift.netlify.app/)**
 
 ### Najdi mě 👇
@@ -140,7 +138,7 @@ I'm Hirut Assefa, a freelancer tester at uTest, with experience in the following
 **Project 1: Click Marketing Agency Website**
 
 - **Technologies Used:** HTML, CSS, Sass, JavaScript
-- **Description:** Designed and developed a comprehensive marketing agency website using a blend of HTML for structured content, CSS for creating a responsive and visually appealing layout, and JavaScript for interactive elements.
+- **Description:** Designed and developed a comprehensive marketing agency website using HTML for structured content, CSS for creating a responsive and visually appealing layout, and JavaScript for interactive elements.
 - **[View Source Code](https://github.com/HirutAssefa/click-marketing-agency)** | **[View Website](https://click-agency.netlify.app/)**
 
 **Project 2: Vibe Dance Studio Landing Page Website**
