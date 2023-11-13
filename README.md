@@ -4,9 +4,9 @@
 
 ### O mně
 
-Jsem Hirut Assefa, tester na volné noze v uTestu se zkušenostmi v následujících oblastech:
+jmenuji se Hirut Assefa, pracuji jako testerka v uTestu.  
 
-**Schopnosti:**
+### Moje dovednosti
 
 - **Manuální testování**: Znalost manuálního testování se zaměřením na webové aplikace, včetně **testování WebAPI** pomocí nástrojů jako **Postman**.
 - **Testovací aktivity**: Zkušenosti se správou defektů, vytvářením testovacích případů, prováděním a komplexním reportingem.
@@ -86,7 +86,7 @@ omplexní web marketingové agentury využívající kombinaci HTML pro struktur
 
 ### About Me (en)
 
-I'm Hirut Assefa, a freelance tester at uTest, with experience in the following areas:
+I'm Hirut Assefa, a freelancer tester at uTest, with experience in the following areas:
 
 **Skills:**
 
