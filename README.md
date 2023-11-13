@@ -1,5 +1,5 @@
 
-![Banner.png](https://i.postimg.cc/9MzJ8J6q/Banner.png)
+[![Banner2.png](https://i.postimg.cc/mDcC5hgj/Banner2.png)](https://postimg.cc/BL0j8SDP)
 
 ### O mně
 
