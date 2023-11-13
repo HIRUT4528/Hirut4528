@@ -1,5 +1,5 @@
 
-[![Banner.png](https://i.postimg.cc/9MzJ8J6q/Banner.png)](https://postimg.cc/xJDvqyT0)
+[![Banner.png](https://i.postimg.cc/9MzJ8J6q/Banner.png)]
 
 ### O mně
 
@@ -48,8 +48,6 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 
 **Projekt 1: Testování registračního formuláře**
 
-### Projekt 1: Testování registračního formuláře
-
 - **Popis:** V tomto projektu ukazuji své dovednosti v manualním testování. Důkladně jsem otestovala registrační formulář, který jsem vytvořila pomocí HTML, CSS a Bootstrap. Tento projekt ukazuje mou schopnost vytvářet testovací scénáře, navrhovat testovací případy, zajistit, aby splňovaly požadavky, a hlásit jakékoli problémy, které najdu.
 
 - [Zobrazit zdrojový kód](https://github.com/HirutAssefa/Manual-testing-project1)
@@ -62,6 +60,7 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 - **Popis:** Navrhli a vyvinuli k
 
 omplexní web marketingové agentury využívající kombinaci HTML pro strukturovaný obsah, CSS pro vytvoření responzivního a vizuálně přitažlivého rozvržení a JavaScript pro interaktivní prvky.
+
 - **[Zobrazit zdrojový kód](https://github.com/HirutAssefa/click-marketing-agency)** | **[Zobrazit web](https://click-agency.netlify.app/)**
 
 **Projekt 2: Webová stránka vstupní stránky Vibe Dance Studio**
