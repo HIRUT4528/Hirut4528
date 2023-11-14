@@ -7,14 +7,15 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 
 ### Moje dovednosti
 
-- **Manuální testování**: Znalost manuálního testování se zaměřením na webové aplikace, včetně **testování WebAPI** pomocí nástrojů jako **Postman**.
-- **Testovací aktivity**: Zkušenosti se správou defektů, vytvářením testovacích případů, prováděním a komplexním reportingem.
-- **Metodologie vývoje softwaru**: Dobře se orientuji v metodologiích vývoje softwaru, zejména **Agilní (SCRUM)**, se schopností přizpůsobit testovací postupy požadavkům projektu.
-- **Dokumentace testů**: Znalost vytváření různé testovací dokumentace, včetně testovacích scénářů, protokolů a pokynů.
-- **Nástroje a systémy**: Znalost používání základních testovacích nástrojů, včetně **Zephyr** pro organizovanou správu testovacích případů a systémů pro sledování chyb, jako jsou **Jira** a **Trello** pro efektivní záznam defektů , sledování a stanovení priorit.
-- **Webové technologie**: Dobrá znalost webových technologií, včetně **HTML**, **CSS**, **JavaScript** a **typescript**.
-- **Ovládání verzí**: Znalost používání systémů správy verzí, jako je **Git/Github**.
-- **Správa databáze**: Znalost práce s databázemi, zejména **MySQL**.
+- Dobré znalost **manuální testování**.
+- Znalost tvorby různé testovací dokumentace, včetně **testovacích scénářů**, **testovacích případů**, **matice sledovatelnosti požadavků**, **testovacích zpráv** atd.
+- Znalost  programovacích jazyků **(javascript a typescript)**.
+- Znalost principů **Agilníího vývoje(SCRUM)**
+- Znalost nástroje **JIRA**, **Zephyr a trello**.
+- Znalost používání systémů správy verzí, jako je **Git/Github**.
+- Znalost práce s databázemi, zejména **MySQL**.
+- Znalost nástrojů **Postman**.
+- Chuť učit se novým věcem, pečlivost, spolehlivost a zodpovědnost. 
 
 ### 🛠️ Testovací nástroje
 
@@ -27,7 +28,7 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧑‍💻 Programovací jazyky, Framework, správa verzí, platformy a knihovny
+### 🧑‍💻 Programovací jazyky, Framework, správa verzí a platformy
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -80,20 +81,24 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=flat&logo=github&labelColor=blue)](https://github.com/HirutAssefa)
 [![E-mail](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&labelColor=blue)](mailto:hirutassefa04@yahoo.com)
 
+____________________________________________________________________________________________________________________________________________________________________________
+
+
 ### About Me (en)
 
 I'm Hirut Assefa, working as a tester at uTest, with experience in the following areas:
 
 **Skills:**
 
-- **Manual Testing**: Proficient in manual testing with a focus on web applications, including **WebAPI testing** using tools like **Postman**.
-- **Testing Activities**: Skilled in defect management, test case creation, execution, and comprehensive reporting.
-- **Software Development Methodologies**: Well-versed in software development methodologies, particularly **Agile (SCRUM)**, with the ability to adapt test procedures to project requirements.
-- **Test Documentation**: Proficient in creating various test documentation, including test scenarios, protocols, and instructions.
-- **Tools and Systems**: Proficient in the use of essential testing tools, including **Zephyr** for organized test case management and bug tracking systems such as **Jira** and **Trello** for efficient defect recording, tracking, and prioritization.
-- **Web Technologies**: Strong knowledge of web technologies, including **HTML**, **CSS**, **JavaScript**, and **typescript**.
-- **Version Control**: Proficient in using version control systems like **Git/Github**.
-- **Database Management**: Knowledgeable in working with databases, particularly **MySQL**.
+- Good knowledge of **manual testing**.
+- Knowledge of creating various test documentation, including test scenarios,test cases, requirement traceability matrix, test reports etc.
+- Knowledge of programming languages ​​**(javascript and typescript)**.
+- Knowledge of the principles of **Agile development (SCRUM)**
+- Knowledge of **JIRA**, **Zephyr and trello** tools.
+- Knowledge of using version control systems such as **Git/Github**.
+- Knowledge of working with databases, especially **MySQL**.
+- Knowledge of **Postman** tools.
+- Desire to learn new things, diligence, reliability and responsibility.
 
 ### 🛠️ Testing Tools
 
