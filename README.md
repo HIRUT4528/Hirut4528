@@ -8,7 +8,7 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 ### Moje dovednosti
 
 - Dobré znalost **manuální testování**.
-- Znalost tvorby různé testovací dokumentace, včetně **testovacích scénářů**, **testovacích případů**, **matice sledovatelnosti požadavků**, **testovacích zpráv** atd.
+- Znalost tvorby různé testovací dokumentace, včetně **testovacích scénářů**, **testovacích případů**, **matice sledovatelnosti požadavků**, **hlášení chyb** atd.
 - Znalost  programovacích jazyků **(javascript a typescript)**.
 - Znalost principů **Agilníího vývoje(SCRUM)**
 - Znalost nástroje **JIRA**, **Zephyr a trello**.
@@ -82,7 +82,8 @@ jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.
 [![E-mail](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=gmail&labelColor=blue)](mailto:hirutassefa04@yahoo.com)
 
 ____________________________________________________________________________________________________________________________________________________________________________
-
+____________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________
 
 ### About Me (en)
 
@@ -91,8 +92,8 @@ I'm Hirut Assefa, working as a tester at uTest, with experience in the following
 **Skills:**
 
 - Good knowledge of **manual testing**.
-- Knowledge of creating various test documentation, including test scenarios,test cases, requirement traceability matrix, test reports etc.
-- Knowledge of programming languages ​​**(javascript and typescript)**.
+- Knowledge of creating various test documentation, including **test scenarios**,**test cases**, **requirement traceability matrix**, **bug reports** etc.
+- Knowledge of programming languages ​​**javascript** and **typescript**.
 - Knowledge of the principles of **Agile development (SCRUM)**
 - Knowledge of **JIRA**, **Zephyr and trello** tools.
 - Knowledge of using version control systems such as **Git/Github**.
