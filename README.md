@@ -3,19 +3,18 @@
 
 ### O mně
 
-jmenuji se Hirut Assefa, v současné době pracuji jako testerka v uTestu.  
+Dobrý den, jmenuji se Hirut Assefa, pracuji jako testerka softwaru v uTestu s odborností v testování. Mám zkušenosti s vytvářením komplexní testovací dokumentace, včetně testovacích scénářů, testovacích případů, matic sledovatelnosti požadavků, zpráv o chybách, atd. Navíc umím pracovat s nástroji pro správu defektů, agilními metodami, webovými technologiemi, správou verzí (Git/GitHub), databázemi MySQL a testováním API.  
 
 ### Moje dovednosti
 
-- Dobré znalost **manuální testování**.
-- Znalost tvorby různé testovací dokumentace, včetně **testovacích scénářů**, **testovacích případů**, **matice sledovatelnosti požadavků**, **hlášení chyb** atd.
-- Znalost  programovacích jazyků **(javascript a typescript)**.
-- Znalost principů **Agilníího vývoje(SCRUM)**
-- Znalost nástroje **JIRA**, **Zephyr a trello**.
-- Znalost používání systémů správy verzí, jako je **Git/Github**.
-- Znalost práce s databázemi, zejména **MySQL**.
-- Znalost nástrojů **Postman**.
-- Chuť učit se novým věcem, pečlivost, spolehlivost a zodpovědnost. 
+- znalost principů **agilního vývoje (SCRUM)**
+- Znalost používání nástrojů pro sledování chyb a správu testů jako jsou **JIRA**, **Zephyr** a **Trello**
+- Znalost testování API pomocí nástrojů **Postman**
+- Dobrá znalost programovacích jazyků **(Javascript a Typescript)**
+- Zkušenosti s verzovacím systémem **Git/Github**
+- Znalost práce s databázemi, zejména **MySQL**
+- Zkušenosti s manuálním testováním , včetně vytváření testovacích případů, provádění a hlášení závad
+- **Základy** programování v jazycích **(Java a C#)** 
 
 ### 🛠️ Testovací nástroje
 
@@ -87,19 +86,18 @@ ________________________________________________________________________________
 
 ### About Me (en)
 
-I'm Hirut Assefa, working as a tester at uTest, with experience in the following areas:
+Hello, I'm Hirut Assefa, a software tester at uTest. I create detailed test documents, like test scenarios, test cases, and bug reports. I use tools for managing issues, follow agile methods, work with web technologies, version control (Git/GitHub), and have hands-on experience with databases (MySQL) and API testing using Postman.
 
 **Skills:**
 
-- Good knowledge of **manual testing**.
-- Knowledge of creating various test documentation, including **test scenarios**,**test cases**, **requirement traceability matrix**, **bug reports** etc.
-- Knowledge of programming languages ​​**javascript** and **typescript**.
+- Experience with **manual testing**, including test case creation, execution and bug reporting
 - Knowledge of the principles of **Agile development (SCRUM)**
-- Knowledge of **JIRA**, **Zephyr and trello** tools.
-- Knowledge of using version control systems such as **Git/Github**.
-- Knowledge of working with databases, especially **MySQL**.
-- Knowledge of **Postman** tools.
-- Desire to learn new things, diligence, reliability and responsibility.
+- Knowledge of using  bug tracking and test management tools such as **JIRA**, **Zephyr** and **Trello**
+- Knowledge of API testing using **Postman** tools
+- Good knowledge of programming languages **​​(Javascript and Typescript)**
+- Knowledge of using version control system such as **Git/Github**
+- Knowledge of working with databases, especially **MySQL**
+- **Basics** of programming languages ​​**(Java and C#)**
 
 ### 🛠️ Testing Tools
 
